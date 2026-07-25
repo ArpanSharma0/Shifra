@@ -7,7 +7,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose_9-47A248?logo=mongodb)](https://www.mongodb.com/)
 [![Gemini AI](https://img.shields.io/badge/AI-Google_Gemini-4285F4?logo=google-gemini)](https://ai.google.dev/)
 
-**ShifraAI** is a full-stack platform that empowers website owners to easily build, train, customize, and embed interactive **Voice AI Assistants** onto any website with a single line of JavaScript script tag. 
+**ShifraAI** is a full-stack platform that empowers website owners to easily build, train, customize, and embed interactive **Voice AI Assistants** onto any website with a single line of JavaScript script tag.
 
 With ShifraAI, website visitors can ask questions via voice or text, get instant natural spoken answers, and navigate between pages on the target website using voice commands.
 
@@ -157,7 +157,7 @@ Navigate to the **Builder** tab (`/builder`) to configure your custom AI assista
    - **Theme**: Select visual styling (**Dark**, **Light**, **Glass**, or **Neon**).
 
 3. **Gemini API Key**:
-   - Paste your personal Google Gemini API key into the input field. (Get a key from [Google AI Studio](https://aistudio.google.com/)).
+   - Paste your personal Google Gemini API key into the input field. (Get a key from Google AI Studio).
 
 4. **Voice Navigation Setup**:
    - Add pages of your website so visitors can navigate by voice.
@@ -368,5 +368,3 @@ Follow these instructions to run ShifraAI on your local computer:
 ### 💡 License
 
 This project is licensed under the **ISC License**.
-#   S h i f r a  
- 
